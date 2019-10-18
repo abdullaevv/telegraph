@@ -1,1 +1,1 @@
-Mini-site with registration and login form
+Mini-site with a registration and login form using Bootstrap
